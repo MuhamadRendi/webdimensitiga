@@ -1,0 +1,9 @@
+.cr{
+	bottom: 0;
+	right: 0;
+	left: 0;
+	height: 50px;
+	background-color: white;
+	width: 100%;
+	text-align: center;
+}
